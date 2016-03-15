@@ -1,0 +1,179 @@
+div.scrollable1 {
+	width:20%;
+	height:500px;
+	margin:0;
+	padding:0;
+	overflow:scroll;
+	float:left;
+}
+div.scrollable2 {
+	width:60%;
+	height:500px;
+	margin:0;
+	padding:0;
+	overflow:scroll;
+	float:left;
+}
+
+div.scrollable3 {
+	width:20%;
+	height:500px;
+	margin:0;
+	padding:0;
+	overflow:scroll;
+	float:left;
+}
+
+div.scrollable4 {
+	width:100%;
+	height:500px;
+	margin:0;
+	padding:0;
+	overflow:auto;
+	float:left;
+}
+table {
+  width:100%;
+  height:60%;
+
+}
+
+
+tr.header1
+{
+color:white;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+}
+
+td.header1
+{
+width:242px;
+}
+
+td.header2
+{
+text-align:center;
+}
+
+
+
+form.signup
+{
+text-align:right;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+color:white;
+width: 300px;
+margin: 0 auto;
+}
+
+td.footer
+{
+color:white;
+}
+
+.text
+{
+color:white;
+font-family:'Times New Roman', Times, serif;
+font-weight:bold;
+text-align:center;
+}
+
+
+#text1
+{
+text-align:center;
+font-family:'Times New Roman', Times, serif;
+font-weight:bold;
+color:blue;
+}
+
+h1.footer3
+{
+text-align:center;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+color:#00001F;
+background-image:IMG_0287-763589.jpg;
+}
+h1.footer
+{
+text-align:center;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+}
+.footer
+{
+text-align:center;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+color:#4775D1;
+background-color:black;
+border:5px solid black;
+}
+
+
+p.footer
+{
+text-align:right;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+color:white;
+}
+
+ul.try
+{
+float:center;
+color:white;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+}
+
+img.profile_pic
+{
+border:5px solid black;
+
+box-shadow: 10px 1px 5px grey;
+}
+
+td.navigator
+{
+background-color:#4775D1;
+color:white;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+text-align:center;
+border:5px solid black;
+box-shadow: 10px 1px 5px grey;
+width:200px;
+height:70px;
+}
+
+a.navig_hover
+{
+text-decoration:none;
+color:white;
+
+}
+a.navig_hover:link{}
+a.navig_hover:hover{font-size:125%;}
+a.navig_hover:active{}
+
+div.navigator
+{
+background-color:#4775D1;
+color:white;
+font-family:"Times New Roman", Times, serif;
+font-weight:bold;
+text-align:center;
+border:5px solid black;
+box-shadow: 10px 1px 5px grey;
+height:5%;
+}
+
+.abc
+{
+
+}
